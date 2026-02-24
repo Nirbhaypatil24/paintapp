@@ -1,0 +1,5 @@
+{
+  "name": "Aquarelle AI - Watercolor Camera",
+  "description": "Transform your photos into stunning watercolor paintings using real-time AI processing.",
+  "requestFramePermissions": ["camera"]
+}

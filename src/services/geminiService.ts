@@ -1,6 +1,6 @@
 import { GoogleGenAI } from "@google/genai";
 
-const API_KEY = process.env.GEMINI_API_KEY;
+const API_KEY = process.env.AIzaSyDqg00RHqsYJpx4Ot-7AKKBycDi8O58n6A;
 
 /**
  * Resizes a base64 image to a maximum dimension while maintaining aspect ratio.
